@@ -1,8 +1,11 @@
 .classpath
 .project
-target
-.settings
-.iml
+.settings/
+target/
+./target/
+*/.settings/
+*.iml
+*/*.iml
+*/.idea/
 .idea/
 /mrxu-cloud.iml
-/MRXU-CLOUD-PARENT.iml
